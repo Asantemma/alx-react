@@ -1,1 +1,1 @@
-# React Immutability using immutablejs
+# React Immutability using immutable.js
