@@ -8,6 +8,7 @@ import CourseList from '../CourseList/CourseList';
 import { shallow, mount } from 'enzyme';
 import { StyleSheetTestUtils } from 'aphrodite';
 
+
 beforeEach(() => {
   StyleSheetTestUtils.suppressStyleInjection();
 });
