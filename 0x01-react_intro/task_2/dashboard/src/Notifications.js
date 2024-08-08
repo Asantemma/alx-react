@@ -1,6 +1,6 @@
 import React from 'react';
 import './Notifications.css';
-import icon from './close-icon.png';
+import icon from './holberton-favicon.ico';
 import { getLatestNotification } from './utils';
 
 function Notifications() {
